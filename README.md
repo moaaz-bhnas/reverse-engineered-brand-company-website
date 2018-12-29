@@ -12,7 +12,7 @@ https://moaaz-bhnas.github.io/reverse-engineered-brand-company-website/
 - [Web Developer Portfolio](https://github.com/moaaz-bhnas/reverse-engineered-portfolio#web-developer-portfolio)
 - [E-commerce Website](https://github.com/moaaz-bhnas/reverse-engineered-e-commerce-website#e-commerce-website)
 - [Architects Website](https://github.com/moaaz-bhnas/reverse-engineered-architects-website#architects-website)
-- [Brand Company]()
+- [Brand Company](https://github.com/moaaz-bhnas/reverse-engineered-brand-company-website/tree/master#siegelgale-a-global-brand-strategy-design-and-experience-firm)
 
 ## Requeriments
 To clone this application, you'll need [Git](https://git-scm.com/).
