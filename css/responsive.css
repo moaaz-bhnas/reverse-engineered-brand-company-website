@@ -1,0 +1,96 @@
+@media (min-width: 26.25em) {
+    nav.main-nav {
+        display: block;
+    }
+}
+
+@media (min-width: 47.5em) {
+    
+    body {
+        font-size: 110%;
+    }
+    
+    /* ----------------------
+        HEADER
+    ------------------------- */
+    
+    nav.main-nav {
+        margin-top: 1.6em;
+    }
+    .main-nav .left-links,
+    .main-nav .right-links {
+        width: 45%;
+    }
+    .main-nav .left-links {
+        margin-right: 5%;  
+    }
+    .main-nav .right-links {
+        margin-left: 5%;
+    }
+    
+    /* ----------------------
+        Grid
+    ------------------------- */
+    
+    .grid-item {
+        width: 46%;
+        float: left;
+    }
+    
+    .grid-item:nth-child(odd) {
+        margin-right: 4%;
+        clear: left;
+    }
+    
+    .grid-item:nth-child(even) {
+        margin-right: 4%;
+    }
+    
+    .grid-item:nth-child(5) {
+        margin-bottom: 0;
+    }
+    
+}
+
+@media (min-width: 70em) {
+    
+    body {
+        font-size: 120%;
+    }
+    
+    /* ----------------------
+        Grid-items
+    ------------------------- */
+    
+    .grid-item {
+        width: 31.333%;
+        float: left;
+    }
+    
+    .grid-item:nth-child(odd) {
+        margin-right: 0;
+        clear: none;
+    }
+    
+    .grid-item:nth-child(even) {
+        margin-right: 0;
+    }
+    
+    .grid-item:nth-child(3n+4) {
+        clear: left;
+    }
+    
+    .grid-item:nth-child(3n+2) {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
+
+
+
+
+
+
+
+
+
